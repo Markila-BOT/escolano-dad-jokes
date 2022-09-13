@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NoData should renders the NoData component 1`] = `
+<div>
+  <div
+    class="container mx-auto"
+    data-testid="no-data-main"
+  >
+    <h1
+      class="text-3xl font-bold text-center text-blue-400"
+    >
+      No Jokes For You
+    </h1>
+  </div>
+</div>
+`;

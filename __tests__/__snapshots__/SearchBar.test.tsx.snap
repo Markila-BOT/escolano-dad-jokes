@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBar should renders the SearchBar component 1`] = `
+<div>
+  <div
+    class="flex items-center justify-center"
+    data-testid="search-bar-main"
+  >
+    <div
+      class="flex border-2 rounded"
+    >
+      <input
+        autocomplete="off"
+        class="px-4 py-2 w-80"
+        id="search"
+        name="search"
+        placeholder="Search keywords on joke"
+        type="search"
+        value=""
+      />
+      <div
+        class="flex items-center justify-center px-4"
+      >
+        <svg
+          class="w-6 h-6 text-gray-600"
+          fill="currentColor"
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M16.32 14.9l5.39 5.4a1 1 0 0 1-1.42 1.4l-5.38-5.38a8 8 0 1 1 1.41-1.41zM10 16a6 6 0 1 0 0-12 6 6 0 0 0 0 12z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;

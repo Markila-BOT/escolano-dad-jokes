@@ -1,0 +1,823 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jokes should renders the Jokes component 1`] = `
+<div>
+  <div
+    class="flex flex-col mt-8"
+    data-testid="joke-main"
+  >
+    <div
+      class="py-2 -my-2"
+      data-testid="table-main"
+    >
+      <div
+        class="inline-block min-w-full overflow-hidden align-middle border-b border-gray-200 shadow sm:rounded-lg"
+      >
+        <table
+          class="min-w-full"
+        >
+          <thead>
+            <tr>
+              <th
+                class="px-6 py-3 text-xs font-medium leading-4 tracking-wider text-left text-gray-500 uppercase border-b border-gray-200 bg-gray-50"
+              >
+                ID
+              </th>
+              <th
+                class="px-6 py-3 text-xs font-medium leading-4 tracking-wider text-left text-gray-500 uppercase border-b border-gray-200 bg-gray-50"
+              >
+                Joke
+              </th>
+              <th
+                class="px-6 py-3 text-xs font-medium leading-4 tracking-wider text-left text-gray-500 uppercase border-b border-gray-200 bg-gray-50"
+              >
+                Thumbnail
+              </th>
+            </tr>
+          </thead>
+          <tbody
+            class="bg-white"
+          >
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  0189hNRf2g
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  08EQZ8EQukb
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  Did you hear about the guy whose whole left side was cut off? He's all right now.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  08xHQCdx5Ed
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  Why didn’t the skeleton cross the road? Because he had no guts.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  0DQKB51oGlb
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  What did one nut say as he chased another nut?  I'm a cashew!
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  0DtrrOZDlyd
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  Chances are if you' ve seen one shopping center, you've seen a mall.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  0LuXvkq4Muc
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  0ga2EdN7prc
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  How come the stadium got hot after the game? Because all of the fans left.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  0oO71TSv4Ed
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  Why was it called the dark ages? Because of all the knights. 
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  0oz51ozk3ob
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  A steak pun is a rare medium well done.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  0ozAXv4Mmjb
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  Why did the tomato blush? Because it saw the salad dressing.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  0wcFBQfiGBd
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  Did you hear the joke about the wandering nun? She was a roman catholic.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  189xHQ7pOuc
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  What creature is smarter than a talking parrot? A spelling bee.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  18Elj3EIYvc
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  I'll tell you what often gets over looked... garden fences.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  18h3wcU8xAd
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  Why did the kid cross the playground? To get to the other slide.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  1DIRSfx51Dd
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  Why do birds fly south for the winter? Because it's too far to walk.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  1DQZDY0gVnb
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  1DQZvXvX8Ed
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  My first time using an elevator was an uplifting experience. The second time let me down.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  1DQZvcFBdib
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  To be Frank, I'd have to change my name.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  1Dt4M7Ufaxc
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  Slept like a log last night … woke up in the fireplace.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="odd:bg-white even:bg-slate-50"
+              data-testid="joke-row"
+            >
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm font-medium leading-5 text-gray-900 cursor-pointer hover:text-blue-600"
+                >
+                  1T01LBXLuzd
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="text-sm leading-5 text-gray-500"
+                >
+                  Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+                </div>
+              </td>
+              <td
+                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200"
+              >
+                <div
+                  class="flex items-center justify-center"
+                >
+                  <img
+                    alt="joke item"
+                    class="w-10 h-10 rounded-full cursor-pointer"
+                    src="https://icanhazdadjoke.com/static/apple-touch-icon.png"
+                  />
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Main Page should renders the main component 1`] = `
+<div>
+  <div
+    class="flex flex-col items-center justify-center min-h-screen py-2 overflow-x-auto bg-slate-100 sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8"
+  >
+    <div
+      class="flex items-center justify-center"
+      data-testid="search-bar-main"
+    >
+      <div
+        class="flex border-2 rounded"
+      >
+        <input
+          autocomplete="off"
+          class="px-4 py-2 w-80"
+          id="search"
+          name="search"
+          placeholder="Search keywords on joke"
+          type="search"
+          value=""
+        />
+        <div
+          class="flex items-center justify-center px-4"
+        >
+          <svg
+            class="w-6 h-6 text-gray-600"
+            fill="currentColor"
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M16.32 14.9l5.39 5.4a1 1 0 0 1-1.42 1.4l-5.38-5.38a8 8 0 1 1 1.41-1.41zM10 16a6 6 0 1 0 0-12 6 6 0 0 0 0 12z"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex flex-col mt-8"
+      data-testid="joke-main"
+    >
+      <div
+        class="container mx-auto"
+        data-testid="no-data-main"
+      >
+        <h1
+          class="text-3xl font-bold text-center text-blue-400"
+        >
+          No Jokes For You
+        </h1>
+      </div>
+    </div>
+  </div>
+</div>
+`;
